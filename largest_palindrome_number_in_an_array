@@ -1,0 +1,4 @@
+def palindome(arr):
+length=len(arr)
+arr.sort()
+print(" ",arr[length-2])
