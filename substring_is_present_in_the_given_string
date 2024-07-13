@@ -1,0 +1,2 @@
+a='iam a good girl'
+print('girl' in a)
